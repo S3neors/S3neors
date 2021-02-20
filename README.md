@@ -1,1 +1,1 @@
-![<img align="center">](https://i.imgur.com/MjeqeUP.gif)
+![](https://i.imgur.com/MjeqeUP.gif)
