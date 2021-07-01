@@ -10,6 +10,6 @@
 <span style="color:#8080808c">(in order of greater knowledge)</span>
 <br><br>
 To contact me, please write an <a href="mailto:simone.russo102006@gmail.com">email </a><br>
-or write me on <a href="t.me/s3neors">telegram</a> !
+or write me on <a href="https://t.me/s3neors">telegram</a> !
 <br><br>
 <img src="https://camo.githubusercontent.com/84cf8f6bd779d016a9dee90d15c0d88b194357a190ce15b60d6f8ce8a95c3534/68747470733a2f2f692e696d6775722e636f6d2f4d6a65716555502e676966">
